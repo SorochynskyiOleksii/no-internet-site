@@ -10,10 +10,11 @@ body {
   background-color: white;
   width: 300px;
   height: 300px;
-  border: 3px solid #ffccff70;
+  border: 3px solid #ffccff80;
   border-radius: 15px;
   box-shadow: 5px 5px 40px #ffccff80;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
